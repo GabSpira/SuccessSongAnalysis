@@ -8,5 +8,5 @@ La tesina include una spiegazione dal punto di vista neurologico dei risultati d
 
 In questa repository è reso disponibile il codice citato nel testo della tesina, utilizzato per gli esempi e per l'analisi vera e propria.
 
-Per utilizzare l'applicativo, è necessario definire le variabili "id" e "secret" assegnando loro i codici che si dovrà autonomamente generare creando un'app dalla piattaforma Spotify for Developers.
+Per utilizzare l'applicativo, è necessario definire le variabili "id" e "secret" assegnando loro i codici che si dovrà autonomamente generare creando un'app dalla piattaforma Spotify for Developers. Bisogna inoltre copiare il link di una playlist Spotify nell'apposita variabile, e, installate le librerie riportate nel file requirements.txt, tutto il necessario per far funzionare l'applicazione è pronto. 
 
