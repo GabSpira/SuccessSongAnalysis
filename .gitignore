@@ -1,4 +1,6 @@
 *.jpg
 *.png
 .env
+.venv
 git rm --cached .env
+git rm --cached .venv
